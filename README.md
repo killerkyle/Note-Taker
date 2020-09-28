@@ -3,7 +3,8 @@
   ## Screenshot  
   ![Note Taker Screenshot](./public/assets/images/NoteTakerScreenshot.png)
   ## Description  
-  A web app to write, save, view, and delete notes using an Express.js server.  
+  A web app to write, save, view, and delete notes using an Express.js server. 
+  I created this application for a bootcamp homework assignment. I struggled with a few small pieces of syntax that wouldn't allow me to move from homepage into the note page. My instructor easily fixed this issue. I also had a hard time connecting all the pathways and utilized a tutor and fellow classmates to fix my code.
   ## Table of Contents  
   * [Installation](#installation)  
   * [Usage](#usage)  
